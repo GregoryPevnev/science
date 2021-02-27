@@ -1,0 +1,8 @@
+//
+// Created by Mac on 27.02.2021.
+//
+
+#ifndef SCIENCE_EXTERNAL_SORT_H
+#define SCIENCE_EXTERNAL_SORT_H
+
+#endif //SCIENCE_EXTERNAL_SORT_H
